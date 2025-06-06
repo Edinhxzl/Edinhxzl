@@ -25,11 +25,8 @@
   <a href="https://github.com/Edinhxzl"><img align="center" alt="PYTON-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a> 
   <a href="https://github.com/Edinhxzl"><img align="center" alt="C-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></a> 
   <a href="https://github.com/Edinhxzl"><img align="center" alt="C#-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a> 
-  <a href="https://github.com/Edinhxzl"><img align="center" alt="C++-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></a> 
   <a href="https://github.com/Edinhxzl"><img align="center" alt="PHP-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></a> 
   <a href="https://github.com/Edinhxzl"><img align="center" alt="ARDUINO-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></a>   
-  <a href="https://github.com/Edinhxzl"><img align="center" alt="NODEJS-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>   
-  <a href="https://github.com/Edinhxzl"><img align="center" alt="REACT-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>   
   <a href="https://github.com/Edinhxzl"><img align="center" alt="MYSQL-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>   
 </div>
   
