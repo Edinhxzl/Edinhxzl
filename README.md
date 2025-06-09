@@ -5,7 +5,7 @@
 - 🎯 Procurando por Jobs | Looking for jobs
 - ✉️ E-mail pessoal: edsontogu@gmail.com | Personal e-mail: edsontogu@gmail.com
 
-##
+
 
 <p>
   <img 
