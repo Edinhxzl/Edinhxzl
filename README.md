@@ -11,7 +11,6 @@
 <div align=center>
   <a href="https://github.com/SilasPires">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="140" 
     style="padding-right: 10px;" 
