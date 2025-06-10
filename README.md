@@ -8,8 +8,7 @@
 
 ##
 
-<div align=center>
-  <a href="https://github.com/Edinhxzl">
+
 <p>
   <img 
     align="left" 
@@ -27,7 +26,6 @@
   />
 
 </p>
-</div>
   
 ##
   
