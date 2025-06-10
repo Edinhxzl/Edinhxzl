@@ -12,8 +12,7 @@
   <a href="https://github.com/SilasPires">
   <img 
     alt="GitHub Stats" 
-    height="160"
-     style="padding-right: 10px;" 
+    height="160" 
     src="https://github-readme-stats.vercel.app/api?username=Edinhxzl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
