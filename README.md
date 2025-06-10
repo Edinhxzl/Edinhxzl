@@ -6,7 +6,7 @@
 - ✉️ E-mail pessoal: edsontogu@gmail.com | Personal e-mail: edsontogu@gmail.com
 
 
-### 📊 Estatísticas
+##
 
 <div align=center>
   <a href="https://github.com/SilasPires">
